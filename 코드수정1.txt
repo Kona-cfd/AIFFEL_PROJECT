@@ -1,0 +1,46 @@
+**기본적 데이터 변수들의 정보는 다음과 같다.**  
+**Following table shows the description of variables.**
+
+|**Number**|**Columns**|**Description**|   
+|:----:|:----:|:----:|
+|1|batter_name|타자 이름|
+|2|age|타자 나이|
+|3|G|출전게임수|
+|4|PA||
+|5|AB|타수(타석-볼넷-사구-희생번트-희생플라이)|
+|6|R|득점|
+|7|H|안타(1루타+2루타+3루타+홈런)|
+|8|1B|1루타|
+|9|2B|2루타|
+|10|3B|3루타|
+|11|HR|홈런|
+|12|TB|루타 수|
+|13|RBI|타점|
+|14|SB|도루 성공|
+|15|CS|도루 실패|
+|16|BB|볼넷|
+|17|HBP|사구(몸에 맞는 볼)|
+|18|GB||
+|19|SO|삼진아웃|
+|20|GDP|병살타|
+|21|BU||
+|22|fly||	
+|23|year||	
+|24|salary|연봉|
+|25|war||
+|26|year_born|출생일|
+|27|hand2||
+|28|cp||
+|29|tp||	
+|30|FBP||	
+|31|avg|타율|	
+|32|OBP|출루율|	
+|33|SLG|장타율|	
+|34|OPS|OPS(OBP+SLG)|
+|35|p_year||
+|36|YAB||	
+|37|YOPS||	
+
+  
+**Note**  
+English full description is not provided from the dacon
